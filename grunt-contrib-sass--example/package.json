@@ -1,0 +1,16 @@
+{
+  "name": "sassyjson_grunt",
+  "version": "0.0.1",
+  "description": "SassyJSON usage with grunt",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fabrice Weinberg",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^0.4.2",
+    "sassyjson": "^1.1.5",
+    "grunt-contrib-sass": "^0.7.3"
+  }
+}

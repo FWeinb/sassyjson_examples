@@ -1,0 +1,7 @@
+@import "SassyJSON";
+@import "../data/data.json?data";
+
+
+test{
+  test: inspect($data);
+}
