@@ -1,1 +1,11 @@
-{"Hello": "World", "Array": ["blue","#f00","#0f0"], "Numbers":[1,2,3,4,5]}
+{
+  "Hello": "World",
+  "Array": [
+    "blue",
+    "#f00",
+    "#0f0"
+  ],
+  "Numbers":[
+    1,2,3,4,5
+  ]
+}
